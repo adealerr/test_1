@@ -1,6 +1,7 @@
-# sibirics_test
+# test_app #1
 
-A new Flutter project.
+Application was made with the implementation of a local database, displaying reactions to "tweets".
+Used clean architecture + bloc + hive. It took 4 hours to implement.
 
 ## Getting Started
 
